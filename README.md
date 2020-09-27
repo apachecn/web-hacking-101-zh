@@ -14,6 +14,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install web-hacking-101-zh
+web-hacking-101-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
