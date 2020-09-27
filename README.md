@@ -12,6 +12,16 @@
 
 > 该书的后续版本不做翻译，可以在 [Leanpub](https://leanpub.com/web-hacking-101) 上购买。但由于漏洞报告是公开的，会放出漏洞链接。
 
+## 下载
+
+### NPM
+
+```
+npm install -g web-hacking-yilingyi-zh
+web-hacking-yilingyi-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](img/qr_alipay.png)
