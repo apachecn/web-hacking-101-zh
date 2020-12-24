@@ -5,6 +5,7 @@
 译者：[飞龙](https://github.com/wizardforcel)
 
 + [在线阅读](https://webhack101.apachecn.org)
++ [在线阅读（Gitee）](https://apachecn.gitee.io/web-hacking-101-zh/)
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/web-hacking-101)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/web-hacking-101)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/web-hacking-101)
